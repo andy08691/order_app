@@ -8,4 +8,7 @@ You can learn:
 4. Redux to manage global state
 5. Realm for store order data
 
+The video below is entire app display
+
+https://user-images.githubusercontent.com/5959535/159599661-d059c301-8830-424c-a9ae-61263199ccf1.mp4
 
